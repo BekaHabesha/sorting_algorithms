@@ -329,7 +329,7 @@ typedef struct listint_s
   * [**0-read_file.py**](./0-read_file.py)
   * [**0-read_file.py**](./0-read_file.py)
 ###
-[<img src="https://i.ibb.co/LdZfhQ0/0ma-0x1-B-C-Sorting-algorithms-Big-O.png" >](https://youtu.be/tGSUjuSBt1A)
+[<img src="https://i.ibb.co/LdZfhQ0/0ma-0x1-B-C-Sorting-algorithms-Big-O.png" >](https://youtu.be/lyZQPjUT5B4)
 
 
 * Write a **function** that <ins>**reads a text file (UTF8) and prints it to stdout</ins>:**
