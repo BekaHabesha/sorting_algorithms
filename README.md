@@ -7,7 +7,7 @@
 
 [beki](./#L151)
 
-
+[Beka](https://github.com/BekaHabesha/.../sorting_algorithms/README.md#L154)
 
 <p align="center">
   <img src="https://i.ibb.co/BLrpTFn/0x18-C-Dynamic-libraries-ALX-Logo.png" />
