@@ -221,7 +221,6 @@ void print_array(const int *array, size_t size)
 }
 ```
 
-<br>
 
 ```js
 #include <stdio.h>
@@ -248,12 +247,14 @@ void print_list(const listint_t *list)
     printf("\n");
 }
 ```
-<br>
+
+
 * Our files [**print_array**](./print_array.c) and [**print_list**](./print_list.c) (containing the [**print_array**](./print_array.c) and [**print_list**](./print_list.c) functions) will be **compiled with your functions during the correction.**
 * Please **declare the prototype of the functions** [**print_array**](./print_array.c), and [**print_list**](./print_list.c) in your [**sort.h**](./sort.h) <ins>**header file</ins>.**
 
+####
 * **Please use the following** [**data structure for doubly linked list**](./sort.h)**:**
-<br>
+
 ```js
 /**
  * struct listint_s - Doubly linked list node
@@ -269,7 +270,6 @@ typedef struct listint_s
     struct listint_s *next;
 } listint_t;
 ```
-<br>
 
 * **Please, note this <ins>format</ins> is used for <ins>Quiz</ins> and <ins>Task questions</ins>.**
   * [**O(1)**](https://intranet.alxswe.com/rltoken/21X_eaj5RGcLIL9mZv2sqw)
@@ -280,7 +280,8 @@ typedef struct listint_s
   * **n * log(n) ->** [**O(nlog(n))**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
   * **n + k ->** [**O(n+k)**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
   * [**…**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
-<br>
+
+
 * **Please use the <ins>“short” notation</ins> (don’t use constants). Example: <ins>O(nk)</ins> or <ins>O(wn)</ins> should be written <ins>O(n)<ins>.** If an **answer is required within a <ins>file</ins>, all your answers files must have a <ins>newline at the end</ins>.**
 
 ##
