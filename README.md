@@ -1,6 +1,6 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
-[beki](./151,26-30)
+[beki](./151,26)
 <p align="center">
   <img src="https://i.ibb.co/BLrpTFn/0x18-C-Dynamic-libraries-ALX-Logo.png" />
 </p>
