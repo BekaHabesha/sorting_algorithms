@@ -1313,11 +1313,9 @@ alex@/tmp/sort$
 [<img src="https://i.ibb.co/8rbXFfK/12ma-0x1-B-C-Sorting-algorithms-Big-O.png" >](https://youtu.be/_HJlGWXzlLA)
 
 * Write a **function** that **sorts a <ins>deck of cards</ins>.** 
-  * <ins>**Prototype</ins>:** [**void sort_deck(deck_node_t **deck);**](./1000-sort_deck.c)
+  * <ins>**Prototype</ins>:** [**void sort_deck(deck_node_t** __**deck);__](./1000-sort_deck.c)
   * You are **allowed to use <ins>C standard library function</ins>** [**qsort**](./1000-sort_deck.c)
   * **Please use the following <ins>data structures</ins>:**
-#####
-
 ```js
 typedef enum kind_e
 {
