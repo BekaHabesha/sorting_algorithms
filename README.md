@@ -3,6 +3,8 @@
 
 [beki](./151,26)
 
+[Beka](https://github.com/BekaHabesha/sorting_algorithms/blob/main/README.md#L154)
+
 [Beki](https://github.com/BekaHabesha/sorting_algorithms/blob/main/README.md?plain=1#L151)
 
 [beki](./#L151)
