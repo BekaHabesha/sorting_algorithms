@@ -5,7 +5,7 @@
 
 [Beki](https://github.com/BekaHabesha/sorting_algorithms/blob/main/README.md?plain=1#L151)
 
-[beki](#L151)
+[beki](./#L151)
 
 
 
