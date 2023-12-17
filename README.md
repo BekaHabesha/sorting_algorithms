@@ -10,6 +10,7 @@ $red[beki]
 
 ${{\color{red}\Huge{\textsf{ Hi\there\ \}}}}\$
 
+${{\color{red}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 ##
 - red
 🂸 🂷 🂶
