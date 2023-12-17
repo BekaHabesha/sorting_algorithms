@@ -38,7 +38,7 @@
 ###
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:942/1*zr053Q07JOcjpFPh4iDJCA.png" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dYxZfN0o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/jfmkuhv1iskzxe763g8k.gif" />
 </p>
 
 ##
@@ -52,14 +52,10 @@
 ### 
 
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:981/1*sav5YXtt9R_3jmw7TBcSMg.png" />
+<img src="https://cdn-images-1.medium.com/max/800/1*8Wh8KHhTWlhKOd8fvNCl1A.jpeg" />
 </p>
 
-# 
-
-<H1><ins>OPCODES</ins> :floppy_disk:</H1>
-
-<H2> <ins>Table of Allowable Opcodes and what they do</ins> . :heavy_check_mark:</H2>
+###
 
 <H1> <ins>Function Prototypes:</ins> :floppy_disk:</H1>
 
@@ -96,8 +92,7 @@
 ##
 
 <p align="center">
-  <img src="https://image.slidesharecdn.com/chapter8-stack-161018120225/85/data-structure-stack-10-320.jpg?cb=1667655429" />
-  <img src="https://image.slidesharecdn.com/fifoanflifo-181021110910/85/fifo-and-lifo-9-320.jpg?cb=1665621864" />
+  <img src="https://www.researchgate.net/publication/348959084/figure/tbl1/AS:986621331644426@1612240264658/Advantages-and-disadvantages-of-all-sorting-algorithms-V-COMPARATIVE-ANALYSIS-OF-ALL.png" />
 </p>
 
 ##
@@ -113,8 +108,10 @@
 * [**All about sorting algorithms**](https://intranet.alxswe.com/rltoken/21X_eaj5RGcLIL9mZv2sqw)
 
 <p align="center">
-  <img src="https://examradar.com/wp-content/uploads/2016/10/Figure-4.1.-Push-operations-on-stack.png" />
-  <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/07/Stack-and-Queues-in-C-1.jpg" />
+  <img src="https://d3i71xaburhd42.cloudfront.net/23117ddd9154e167662a5a3104947076c8f3a48b/1-Figure1.1-1.png" />
+</p>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:942/1*zr053Q07JOcjpFPh4iDJCA.png" />
 </p>
 
 ###
@@ -137,29 +134,25 @@
 * **What is a <ins>stable sorting algorithm</ins>.**
 
 <p align="center">
-  <img src="https://hetalrachhhome.files.wordpress.com/2019/12/stack-operations.png?w=1024" />
+  <img src="https://www.andrew.cmu.edu/course/15-121/lectures/Sorting%20Algorithms/pix/bubbleSort.bmp" />
 </p>
 
 ###
 
 <H2> <ins>Copyright - Plagiarism</ins> ⚠️ </H2>
 
-<p align="center">
-  <img src="https://i.ibb.co/Dr7zQyb/alx-do-hard-things.png" />
-</p>
-
 * You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 * You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 * You are not allowed to publish any content of this project.
 * Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
+<p align="center">
+  <img src="https://i.ibb.co/8csnv7s/Alx-do-hard-things.jpg" />
+</p>
+
 ##
 
 <H1><ins>Requirements</ins> 🖊📒</H1>
-
-<p align="center">
-  <img src="https://i.ibb.co/F3yxSVj/alx-do-better-edited.png" />
-</p>
 
 <H2>General Requirements 📋:heavy_check_mark:</H2>
 
@@ -178,7 +171,7 @@
 * A <ins>**list/array</ins> does not need** to be **esorted if its <ins>size is less than 2</ins>.**
 
 <p align="center">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220805131014/fifo.png" />
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/204/020/datas/original.png" />
 </p>
 
 ##
@@ -194,7 +187,6 @@
 <H2>Data structures and Functions📌 :heavy_check_mark:</H2>
 
 * **For this project** you are given the following [**print_array**](./print_array.c), and [**print_list**](./print_list.c) **functions:**
-
 ```js
 #include <stdlib.h>
 #include <stdio.h>
@@ -220,7 +212,6 @@ void print_array(const int *array, size_t size)
     printf("\n");
 }
 ```
-
 
 ```js
 #include <stdio.h>
@@ -250,10 +241,8 @@ void print_list(const listint_t *list)
 
 * Our files [**print_array**](./print_array.c) and [**print_list**](./print_list.c) (containing the [**print_array**](./print_array.c) and [**print_list**](./print_list.c) functions) will be **compiled with your functions during the correction.**
 * Please **declare the prototype of the functions** [**print_array**](./print_array.c), and [**print_list**](./print_list.c) in your [**sort.h**](./sort.h) <ins>**header file</ins>.**
-
+#####
 * **Please use the following** [**data structure for doubly linked list**](./sort.h)**:**
-
-
 ```js
 /**
  * struct listint_s - Doubly linked list node
@@ -289,7 +278,9 @@ typedef struct listint_s
 
 * **Here is a quick tip to help you test your sorting algorithms with big sets of random integers:** [**Random.org**](https://intranet.alxswe.com/rltoken/YR-VWQbICB59wZs1eAaI3w)
 
-##
+<p align="center">
+  <img src="https://d3i71xaburhd42.cloudfront.net/f48c61536b5a70f7c9e35659774d565a038e1635/6-Figure11-1.png" />
+</p>
 
 ##
 
@@ -322,7 +313,7 @@ typedef struct listint_s
 
 <H1 align="center">MANDATORY_TASKS (From Task 0 to 3) 🛑 :cd:</h1>
 
-## **No. 0. Bubble sort** :heavy_check_mark:
+## ♠️ **No. 0. Bubble sort** ♠️ :heavy_check_mark:
 * **File:**
   * [**0-bubble_sort.c**](./0-bubble_sort.c) 
   * [**0-O**](./0-O)
@@ -334,12 +325,10 @@ typedef struct listint_s
   * You’re **expected to print the** [**array**](./0-bubble_sort.c) after each time you <ins>**swap two elements</ins>** (See example below).
 ####
 * **Write in the <ins>file</ins>** [**0-O**](./0-O), the <ins>**big O notations of the time complexity</ins>** of the [**Bubble sort**](https://intranet.alxswe.com/rltoken/awhP8BhtkGi-lwmMc2-KAw)<ins>**algorithm</ins>, with 1 notation per line:**
-  * in the [**best case**](https://intranet.alxswe.com/rltoken/awhP8BhtkGi-lwmMc2-KAw)
-  * in the [**average case**](https://intranet.alxswe.com/rltoken/awhP8BhtkGi-lwmMc2-KAw)
-  * in the [**worst case**](https://intranet.alxswe.com/rltoken/awhP8BhtkGi-lwmMc2-KAw)
+  * in the [**best case**](https://en.wikipedia.org/wiki/Bubble_sort#:~:text=swaps-,Best%2Dcase,-performance)
+  * in the [**average case**](https://en.wikipedia.org/wiki/Bubble_sort#:~:text=swaps-,Average,-performance)
+  * in the [**worst case**](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
 #####
-* [**0-main.c**](./tests/tests-main.c/0-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 0-main.c 
 #include <stdio.h>
@@ -397,7 +386,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ```
 ##
 
-## **No. 1. Insertion sort** :heavy_check_mark:
+## ♠️ **No. 1. Insertion sort** ♣️ :heavy_check_mark:
 * **File:**
   * [**1-insertion_sort_list.c**](./1-insertion_sort_list.c)
   * [**1-O**](./1-O)
@@ -405,17 +394,15 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 [<img src="https://i.ibb.co/j50HGKN/1ma-0x1-B-C-Sorting-algorithms-Big-O.png" >](https://https://youtu.be/ROalU379l3U)
 
 * Write a **function** that **sorts** a [**doubly linked list**](https://en.wikipedia.org/wiki/Doubly_linked_list) of **integers in <ins>ascending order</ins>** using the [**Insertion sort**](https://intranet.alxswe.com/rltoken/GocxRKbPdsmERXeOHMCO2w) **algorithm**
-  * <ins>**Prototype</ins>:** [**void insertion_sort_list(listint_t **list);**](./1-insertion_sort_list.c)
-  * You are **not allowed to modify the expected to print the** <ins>integer</ins>** [**n**](./tests/tests-main.c/1-main.c) of a <ins>**node</ins>.** You have to <ins>**swap the nodes themselves</ins>.**
+  * <ins>**Prototype</ins>:** [**void insertion_sort_list(listint_t** __**list);__](./1-insertion_sort_list.c)
+  * You are **not allowed to modify the expected to print the** **<ins>integer</ins>** [**n**](./tests/tests-main.c/1-main.c) of a <ins>**node</ins>.** You have to <ins>**swap the nodes themselves</ins>.**
   * You’re **expected to print the** [**list**](./1-insertion_sort_list.c) after each time you <ins>**swap two elements</ins>** (See example below).
 ####
 * **Write in the <ins>file</ins>** [**1-O**](./1-O), the <ins>**big O notations of the time complexity</ins>** of the [**Insertion sort**](https://intranet.alxswe.com/rltoken/GocxRKbPdsmERXeOHMCO2w) <ins>**algorithm</ins>, with 1 notation per line:**
-  * in the [**best case**](https://intranet.alxswe.com/rltoken/GocxRKbPdsmERXeOHMCO2w)
-  * in the [**average case**](https://intranet.alxswe.com/rltoken/GocxRKbPdsmERXeOHMCO2w)
-  * in the [**worst case**](https://intranet.alxswe.com/rltoken/GocxRKbPdsmERXeOHMCO2w)
+  * in the [**best case**](https://en.wikipedia.org/wiki/Insertion_sort#:~:text=comparisons%20and%20swaps-,Best%2Dcase,-performance)
+  * in the [**average case**](https://en.wikipedia.org/wiki/Insertion_sort#:~:text=swaps-,Average%20performance,-%EF%BF%BD)
+  * in the [**worst case**](https://en.wikipedia.org/wiki/Insertion_sort#:~:text=Array-,Worst%2Dcase,-performance)
 #####
-* [**1-main.c**](./tests/tests-main.c/0-main.1)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 1-main.c 
 #include <stdio.h>
@@ -509,7 +496,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ```
 ##
 
-## **No. 2. Selection sort** :heavy_check_mark:
+## ♠️ **No. 2. Selection sort** ♥️ :heavy_check_mark:
 * **File:**
   * [**2-selection_sort.c**](./2-selection_sort.c) 
   * [**2-O**](./2-O)
@@ -521,12 +508,10 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
   * You’re **expected to print the** [**array**](./2-selection_sort.c) after each time you <ins>**swap two elements</ins>** (See example below).
 ####
 * **Write in the <ins>file</ins>** [**2-O**](./2-O), the <ins>**big O notations of the time complexity</ins>** of the [**Selection sort**](https://intranet.alxswe.com/rltoken/SEbg0fBEraioQcl-igvUSw) <ins>**algorithm</ins>, with 1 notation per line:**
-  * in the [**best case**](https://intranet.alxswe.com/rltoken/SEbg0fBEraioQcl-igvUSw)
-  * in the [**average case**](https://intranet.alxswe.com/rltoken/SEbg0fBEraioQcl-igvUSw)
-  * in the [**worst case**](https://intranet.alxswe.com/rltoken/SEbg0fBEraioQcl-igvUSw)
+  * in the [**best case**](https://en.wikipedia.org/wiki/Selection_sort#:~:text=swaps-,Best%2Dcase,-performance)
+  * in the [**average case**](https://en.wikipedia.org/wiki/Selection_sort#:~:text=swap-,Average,-performance)
+  * in the [**worst case**](https://en.wikipedia.org/wiki/Selection_sort#:~:text=Array-,Worst%2Dcase,-performance)
 #####
-* [**2-main.c**](./tests/tests-main.c/2-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 2-main.c 
 #include <stdio.h>
@@ -571,7 +556,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ```
 ##
 
-## **No. 3. Quick sort** :heavy_check_mark:
+## ♠️ **No. 3. Quick sort** ♦️ :heavy_check_mark:
 * **File:**
   * [**3-quick_sort.c**](./3-quick_sort.c) 
   * [**3-O**](./3-O)
@@ -585,12 +570,10 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
   * You’re **expected to print the** [**array**](./3-quick_sort.c) after each time you <ins>**swap two elements</ins>** (See example below).
 ####
 * **Write in the <ins>file</ins>** [**3-O**](./3-O), the <ins>**big O notations of the time complexity</ins>** of the [**Quick sort**](https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) <ins>**algorithm</ins>, with 1 notation per line:**
-  * in the [**best case**](https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg)
-  * in the [**average case**](https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg)
-  * in the [**worst case**](https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg)
+  * in the [**best case**](https://en.wikipedia.org/wiki/Quicksort#:~:text=Best%2Dcase%20performance)
+  * in the [**average case**](https://en.wikipedia.org/wiki/Quicksort#:~:text=and%20equal%20keys)-,Average,-performance)
+  * in the [**worst case**](https://en.wikipedia.org/wiki/Quicksort#:~:text=Sorting%20algorithm-,Worst%2Dcase,-performance)
 #####
-* [**3-main.c**](./tests/tests-main.c/3-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 3-main.c 
 #include <stdio.h>
@@ -637,7 +620,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 
 <h1 align="center">ADVANCED_TASKS (From Task 4 to 12) 🟢 :cd:</h1>
 
-## **No. 4. Shell sort - Knuth Sequence** :heavy_check_mark:
+## ♣️ **No. 4. Shell sort - Knuth Sequence** ♠️ :heavy_check_mark:
 * **File:**
   * [**100-shell_sort.c**](./100-shell_sort.c)
 ###
@@ -648,8 +631,6 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ####
 ##### No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap.
 #####
-* [**100-main.c**](./tests/tests-main.c/100-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 100-main.c 
 #include <stdio.h>
@@ -689,24 +670,21 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 
 ###
 
-## **No. 5. Cocktail shaker sort** :heavy_check_mark:
+## ♣️ **No. 5. Cocktail shaker sort** ♣️ :heavy_check_mark:
 * **File:**
   * [**101-cocktail_sort_list.c**](./101-cocktail_sort_list.c) 
   * [**101-O**](./101-O)
 ###
 * Write a **function** that **sorts** a [**doubly linked list**](https://en.wikipedia.org/wiki/Doubly_linked_list) of **integers in <ins>ascending order</ins>** using the [**Cocktail shaker sort**](https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA) **algorithm**
-  * <ins>**Prototype</ins>:** [**void cocktail_sort_list(listint_t **list);**](./101-cocktail_sort_list.c)
-  * You are **not allowed to modify the** <ins>integer</ins>** [**n**](./tests/tests-main.c/101-main.c) of a <ins>**node</ins>.** You have to <ins>**swap the nodes themselves</ins>.**
+  * <ins>**Prototype</ins>:** [**void cocktail_sort_list(listint_t** __**list);__](./101-cocktail_sort_list.c)
+  * You are **not allowed to modify the** **<ins>integer</ins>** [**n**](./tests/tests-main.c/101-main.c) of a <ins>**node</ins>.** You have to <ins>**swap the nodes themselves</ins>.**
   * You’re **expected to print the** [**list**](./101-cocktail_sort_list.c) after each time you <ins>**swap two elements</ins>** (See example below).
 ####
 * **Write in the <ins>file</ins>** [**101-O**](./101-O), the <ins>**big O notations of the time complexity</ins>** of the [**Cocktail shaker sort**](https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA) <ins>**algorithm</ins>, with 1 notation per line:**
-
-  * in the [**best case**](https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA)
-  * in the [**average case**](https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA)
-  * in the [**worst case**](https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA)
+  * in the [**best case**](https://en.wikipedia.org/wiki/Cocktail_shaker_sort#:~:text=Best%2Dcase%20performance)
+  * in the [**average case**](https://en.wikipedia.org/wiki/Cocktail_shaker_sort#:~:text=)-,Average%20performance,-%EF%BF%BD)
+  * in the [**worst case**](https://en.wikipedia.org/wiki/Cocktail_shaker_sort#:~:text=Worst%2Dcase%20performance)
 #####
-* [**101-main.c**](./tests/tests-main.c/101-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 101-main.c 
 #include <stdio.h>
@@ -798,7 +776,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$ ./cocktail
 BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ```
 
-## **No. 6. Counting sort** :heavy_check_mark:
+## ♣️ **No. 6. Counting sort** ♥️ :heavy_check_mark:
 * **File:**
   * [**102-counting_sort.c**](./102-counting_sort.c) 
   * [**102-O**](./102-O)
@@ -811,12 +789,10 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
     * This [**array**](./102-counting_sort.c) is of size [**k + 1**](https://en.wikipedia.org/wiki/Counting_sort#:~:text=count%20%E2%86%90%20array%20of%20k%20%2B%201%20zeros) where [**k**](https://en.wikipedia.org/wiki/Counting_sort#:~:text=k%20is%20the%20maximum%20value%20of%20the%20non%2Dnegative%20key%20values%20and%20output%20is%20the%20sorted%20output%20array.) is the **largest number** in [**array**](./102-counting_sort.c)
 ####
 * **Write in the <ins>file</ins>** [**102-O**](./102-O), the <ins>**big O notations of the time complexity</ins>** of the [**Counting sort**](https://intranet.alxswe.com/rltoken/ChcoDSCqnJHGC-qrSPEGHQ) <ins>**algorithm</ins>, with 1 notation per line:**
-  * in the [**best case**](https://intranet.alxswe.com/rltoken/ChcoDSCqnJHGC-qrSPEGHQ)
-  * in the [**average case**](https://intranet.alxswe.com/rltoken/ChcoDSCqnJHGC-qrSPEGHQ)
-  * in the [**worst case**](https://intranet.alxswe.com/rltoken/ChcoDSCqnJHGC-qrSPEGHQ)
+  * in the [**best case**](https://en.wikipedia.org/wiki/Sorting_algorithm#:~:text=.%5B15%5D-,Counting%20sort,-%E2%80%94)
+  * in the [**average case**](https://en.wikipedia.org/wiki/Sorting_algorithm#:~:text=.%5B15%5D-,Counting%20sort,-%E2%80%94)
+  * in the [**worst case**](https://en.wikipedia.org/wiki/Counting_sort#:~:text=Array-,Worst%2Dcase,-performance)
 #####
-* [**102-main.c**](./tests/tests-main.c/102-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 102-main.c 
 #include <stdio.h>
@@ -854,7 +830,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ```
 ##
 
-## **No. 7. Merge sort** :heavy_check_mark:
+## ♣️ **No. 7. Merge sort** ♦️ :heavy_check_mark:
 * **File:**
   * [**103-merge_sort.c**](./103-merge_sort.c) 
   * [**103-O**](./103-O)
@@ -862,7 +838,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 * Write a **function** that **sorts** an [**array**](https://en.wikipedia.org/wiki/Array_data_structure) of **integers in <ins>ascending order</ins>** using the [**Merge sort**](https://intranet.alxswe.com/rltoken/8sZ3nAhd_YLNzHCgNbbf8A) **algorithm**
   * <ins>**Prototype</ins>:** [**void merge_sort(int *array, size_t size);**](./103-merge_sort.c)
   * You must <ins>**implement</ins>** the [**top-down**](./103-merge_sort.c) [**merge sort**](./103-merge_sort.c) **algorithm.**
-    * When you <ins>**divide</ins>** an [**array**](https://en.wikipedia.org/wiki/Array_data_structure) into <ins>**two sub-arrays</ins>,** [**the size of the left array should always be <= the size of the right array.**] (https://en.wikipedia.org/wiki/Merge_sort#:~:text=i%2B%2B)-,A%5Bi%5D%20%3D%20B%5Bi%5D%3B,-%7D) i.e. [**{1, 2, 3, 4, 5}**](https://www.geeksforgeeks.org/merge-sort/#:~:text=Lets%20consider%20an%20array%20arr%5B%5D%20%3D%20%7B38%2C%2027%2C%2043%2C%2010%7D) **->** [**{1, 2}, {3, 4, 5}**](https://www.geeksforgeeks.org/merge-sort/#:~:text=an%20example%20array-,%7B38%2C%2027%2C%2043%2C%2010%7D.,-Recommended%20Problem)
+    * When you <ins>**divide</ins>** an [**array**](https://en.wikipedia.org/wiki/Array_data_structure) into <ins>**two sub-arrays</ins>,** [**the size of the left array should always be**] (https://en.wikipedia.org/wiki/Merge_sort#:~:text=i%2B%2B)-,A%5Bi%5D%20%3D%20B%5Bi%5D%3B,-%7D) **<=** [**the size of the right array**] (https://en.wikipedia.org/wiki/Merge_sort#:~:text=i%2B%2B)-,A%5Bi%5D%20%3D%20B%5Bi%5D%3B,-%7D) i.e. [**{1, 2, 3, 4, 5}**](https://www.geeksforgeeks.org/merge-sort/#:~:text=Lets%20consider%20an%20array%20arr%5B%5D%20%3D%20%7B38%2C%2027%2C%2043%2C%2010%7D) **->** [**{1, 2}, {3, 4, 5}**](https://www.geeksforgeeks.org/merge-sort/#:~:text=an%20example%20array-,%7B38%2C%2027%2C%2043%2C%2010%7D.,-Recommended%20Problem)
     * Sort the [**left array before the right array**](https://en.wikipedia.org/wiki/Merge_sort#:~:text=//%20%20Left%20run%20is%20A%5BiLeft%20%3AiRight%2D1%5D)
   * You are **allowed to use <ins>printf</ins>.**
   * You are **allowed to use <ins>malloc</ins>** and **<ins>free</ins>** only **once** (only one **call**)
@@ -873,8 +849,6 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
   * in the [**average case**](https://en.wikipedia.org/wiki/Sorting_algorithm#:~:text=several%20STL%20implementations.-,Merge%20sort,-%EF%BF%BD)
   * in the [**worst case**](https://en.wikipedia.org/wiki/Sorting_algorithm#:~:text=several%20STL%20implementations.-,Merge%20sort,-%EF%BF%BD)
 #####
-* [**103-main.c**](./tests/tests-main.c/103-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 103-main.c 
 #include <stdio.h>
@@ -948,13 +922,13 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 
 ##
 
-## **No. 8. Heap sort** :heavy_check_mark:
+## ♣️ **No. 8. Heap sort** ♠️ :heavy_check_mark:
 * **File:**
   * [**104-heap_sort.c**](./104-heap_sort.c) 
   * [**104-O**](./104-O)
 ###
 * Write a **function** that **sorts** an [**array**](https://en.wikipedia.org/wiki/Array_data_structure) of **integers in <ins>ascending order</ins>** using the [**Heap sort**](https://intranet.alxswe.com/rltoken/YKYRdSdomaVkNrtNv1KS6Q) **algorithm**
-  * <ins>**Prototype</ins>:** [**void heap_sort(int *array, size_t size););**](./104-heap_sort.c)
+  * <ins>**Prototype</ins>:** [**void heap_sort(int *array, size_t size);**](./104-heap_sort.c)
   * You’re **expected to print the** [**array**](./104-heap_sort.c) after each time you <ins>**swap two elements</ins>** (See example below).
 ####
 * **Write in the <ins>file</ins>** [**104-O**](./104-O), the <ins>**big O notations of the time complexity</ins>** of the [**Heap sort**](https://intranet.alxswe.com/rltoken/YKYRdSdomaVkNrtNv1KS6Q) <ins>**algorithm</ins>, with 1 notation per line:**
@@ -962,8 +936,6 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
   * in the [**average case**](https://en.wikipedia.org/wiki/Heapsort#:~:text=(equal%20keys)-,Average%20performance,-%EF%BF%BD)
   * in the [**worst case**](https://en.wikipedia.org/wiki/Heapsort#:~:text=Array-,Worst%2Dcase%20performance,-%EF%BF%BD)
 #####
-* [**104-main.c**](./tests/tests-main.c/104-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 104-main.c 
 #include <stdio.h>
@@ -1028,7 +1000,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 
 ##
 
-## **No. 9. Radix sort** :heavy_check_mark:
+## ♣️ **No. 9. Radix sort** ♣️ :heavy_check_mark:
 * **File:**
   * [**105-radix_sort.c**](./105-radix_sort.c)
 ###
@@ -1039,8 +1011,6 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
   * You are **allowed to use <ins>malloc</ins>** and **<ins>free</ins>** for **this task.**
   * You’re **expected to print the** [**array**](./105-radix_sort.c) each time you <ins>**increase</ins>** your [**significant digit**](./105-radix_sort.c) (See example below).
 #####
-* [**105-main.c**](./tests/tests-main.c/105-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 105-main.c 
 #include <stdio.h>
@@ -1080,7 +1050,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 
 ##
 
-## **No. 10. Bitonic sort** :heavy_check_mark:
+## ♣️ **No. 10. Bitonic sort** ♥️ :heavy_check_mark:
 * **File:**
   * [**106-bitonic_sort.c**](./106-bitonic_sort.c)  
   * [**106-O**](./106-O)
@@ -1097,8 +1067,6 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
   * in the [**average case**](https://en.wikipedia.org/wiki/Bitonic_sorter#:~:text=Average%20performance,parallel%20time)
   * in the [**worst case**](https://en.wikipedia.org/wiki/Bitonic_sorter#:~:text=Worst%2Dcase%20performance,parallel%20time)
 #####
-* [**106-main.c**](./tests/tests-main.c/106-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 106-main.c 
 #include <stdio.h>
@@ -1195,7 +1163,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ```
 ##
 
-## **No. 11. Quick Sort - Hoare Partition scheme** :heavy_check_mark:
+## ♣️ **No. 11. Quick Sort - Hoare Partition scheme** ♦️ :heavy_check_mark:
 * **File:**
   * [**107-quick_sort_hoare.c**](./107-quick_sort_hoare.c)  
   * [**107-O**](./107-O)
@@ -1208,11 +1176,9 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ####
 * **Write in the <ins>file</ins>** [**107-O**](./107-O), the <ins>**big O notations of the time complexity</ins>** of the [**Quick sort**](https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) <ins>**algorithm</ins>, with 1 notation per line:**
   * in the [**best case**](https://en.wikipedia.org/wiki/Quicksort#:~:text=Best%2Dcase%20performance)
-  * in the [**average case**](https://en.wikipedia.org/wiki/Quicksort#:~:text=and%20equal%20keys)-,Average%20performance,-%EF%BF%BD)
+  * in the [**average case**](https://en.wikipedia.org/wiki/Quicksort#:~:text=and%20equal%20keys)
   * in the [**worst case**](https://en.wikipedia.org/wiki/Quicksort#:~:text=Sorting%20algorithm-,Worst%2Dcase%20performance,-%EF%BF%BD)
 #####
-* [**107-main.c**](./tests/tests-main.c/107-main.c)
-
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 107-main.c 
 #include <stdio.h>
@@ -1257,8 +1223,7 @@ BekaHabesha@BekaHabesha:~/sorting_algorithms$ ./quick
 BekaHabesha@BekaHabesha:~/sorting_algorithms$
 ```
 #####
-* **Another example of output:**
-
+**Another example of output:**
 ```js
 alex@/tmp/sort$ ./quick_2
 87, 65, 28, 63, 93, 52, 39, 59, 27, 30, 24, 83, 69, 62, 13, 6, 88, 58, 92, 26, 42, 11, 16, 21, 75, 36, 71, 8, 45, 38
@@ -1305,7 +1270,7 @@ alex@/tmp/sort$
 
 ##
 
-## **No. 12. Dealer** :heavy_check_mark:
+## ♠️♦️ **No. 12. Dealer** ♥️♣️ :heavy_check_mark:
 * **File:**
   * [**1000-sort_deck.c**](./1000-sort_deck.c)
   * [**deck.h**](./deck.h)
@@ -1316,6 +1281,8 @@ alex@/tmp/sort$
   * <ins>**Prototype</ins>:** [**void sort_deck(deck_node_t** __**deck);__](./1000-sort_deck.c)
   * You are **allowed to use <ins>C standard library function</ins>** [**qsort**](./1000-sort_deck.c)
   * **Please use the following <ins>data structures</ins>:**
+#####
+
 ```js
 typedef enum kind_e
 {
@@ -1352,20 +1319,16 @@ typedef struct deck_node_s
     struct deck_node_s *next;
 } deck_node_t;
 ```
-
-
-* You have to push you deck.h header file, containing the previous data structures definition
-* Each node of the doubly linked list contains a card that you cannot modify. You have to swap the nodes.
-* You can assume there is exactly 52 elements in the doubly linked list.
-* You are free to use the sorting algorithm of your choice
-* The deck must be ordered:
-  * From Ace to King
-  * From Spades to Diamonds
-  * See example below
-
 #####
-* [**1000-main.c**](./tests/tests-main.c/1000-main.c)
-
+* You have to <ins>**push</ins>** you [**deck.h**](./deck.h) **header file**, **containing the previous <ins>data structures</ins> definition.**
+* Each **node** of the [**doubly linked list**](https://en.wikipedia.org/wiki/Doubly_linked_list) **contains a card** that you **cannot modify**. You have to **swap the nodes.**
+* You can **assume there is exactly <ins>52 elements</ins>** in the [**doubly linked list**](https://en.wikipedia.org/wiki/Doubly_linked_list).
+* You are **free to use the <ins>sorting algorithm</ins> of your choice.**
+* The <ins>**deck must be ordered<ins>:**
+  * From <ins>**Ace</ins>** 🅰️ to 🤴🏾 <ins>**King</ins>**
+  * From <ins>**Spades</ins>** ♠️ to ♦️ <ins>**Diamonds</ins>**
+  * See example below
+#####
 ```js
 BekaHabesha@BekaHabesha:~/sorting_algorithms/tests/tests-main.c$ cat 1000-main.c 
 #include <stdlib.h>
