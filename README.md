@@ -8,9 +8,13 @@ $red[beki]
 
 ##
 
-${{\color{red}\Huge{\textsf{ Hi\there\ \}}}}\$
+$${{\color{red}\Huge{\textsf{ Hi\there\ \}}}}\$$
 
-${{\color{red}\XXL{\textsf{ Hi 🂶 there\ \}}}}\$
+${{\color{green}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
+
+${{\color{red}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
+${{\color{red}\Large{\textsf{ Hi 🂶 there\ \}}}}\$
+
 ##
 - red
 🂸 🂷 🂶
