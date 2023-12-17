@@ -57,42 +57,151 @@
 
 ###
 
-<H1> <ins>Function Prototypes:</ins> :floppy_disk:</H1>
+<H1 align="center"> 📚📋<ins>Project Files</ins>📑📒 📱📔<ins>Function Prototypes:</ins>📲📓<br> 🗂📁<ins>Project Test Folder</ins>📂🗂</H1>
+
+<H1> 📚<ins>Project Files</ins>📑 </H1>
+
+<H2> 🪜<ins>Helper Files</ins> 📜 </H2>
+
+* [**print_array.c**](./print_array.c) : is a C function that prints an array of integers.
+* [**print_list.c**](./print_list.c) : is a C function that prints a listint_t doubly-linked list.
+
+<H2> 📮<ins>Header Files</ins> 🗒 </H2>
+
+* [**sort.h**](./sort.h) : is a Header file containing definitions and prototypes for all types and functions written for the project.
+* [**deck.h**](./deck.h) : is a Header file containing definitions and prototypes for all types and functions written for the task [**1000-sort_deck.c**](./1000-sort_deck.c) .
+###
+
+<H1> 📔<ins>Function Prototypes:</ins> 📱</H1>
 
 | <H3 align="center">Task NO.</H3> | <H3 align="center">Title</H3> | <H3 align="center">File</H3> | <H3 align="center">Prototype</H3> |
 | :----: | :----:| :---- | :---- |
 |   |   |   |   |
 |   |   |   |   |
-|   | **MANDATORY TASKS** |  |  |
+|   | <H3 align="center">Helper</H3> |  |  |
 |   |   |   |   |
 |   |   |   |  |
-| **🌎** | **Bubble sort** | [**0-bubble_sort.c**](./0-bubble_sort.c) | [**void bubble_sort(int *array, size_t size);**](./0-bubble_sort.c) |
+| **🌍** | **Print Array** | [**print_array.c**](./print_array.c) | [**void print_array(const int *array, size_t size)**](./print_array.c) |
 |  |  | [**0-O**](./0-O) |  |
-| **1** | **My list** | [**1-my_list.py**](./[1-my_list.py) | [**def print_sorted(self):**](./1-my_list.py) |
-| **2** | **Exact same object** | [**2-is_same_class.py**](./2-is_same_class.py) | [**def is_same_class(obj, a_class):**](./2-is_same_class.py) |
-| **3** | **Same class or inherit from** | [**3-is_kind_of_class.py**](./3-is_kind_of_class.py) | [**def is_kind_of_class(obj, a_class):**](./3-is_kind_of_class.py) |
-| **4** | **Only sub class of** | [**4-inherits_from.py**](./4-inherits_from.py) | [**def inherits_from(obj, a_class):**](./4-inherits_from.py) |
-| **5** | **Geometry module** | [**5-base_geometry.py**](./5-base_geometry.py) | [**BaseGeometry:**](./5-base_geometry.py) |
-| **6** | **Improve Geometry** | [**6-base_geometry.py**](./6-base_geometry.py) | [**def area(self):**](./6-base_geometry.py) |
-| **7** | **Integer validator** | [**7-base_geometry.py**](./7-base_geometry.py) | [**def area(self):**](./7-base_geometry.py)<br> [**def integer_validator(self, name, value):**](./7-base_geometry.py) |
-| **8** | **Rectangle** | [**8-rectangle.py**](./8-rectangle.py) | [**def __init__(self, width, height):**](./8-rectangle.py) |
-| **9** | **Full rectangle** | [**9-rectangle.py**](./9-rectangle.py) | [**def __init__(self, width, height):**](./9-rectangle.py)<br> [**def area(self):**](./9-rectangle.py)<br> [**def __str__(self):**](./9-rectangle.py) |
-| **10** | **Square #1** | [**10-square.py**](./10-square.py) | [**def __init__(self, size):**](./10-square.py) |
-| **11** | **Square #2** | [**11-square.py**](./11-square.py) | [**def __init__(self, size):**](./11-square.py) |
-|   |   |   |   |
-|  |   |   |  |
-|  | **ADVANCED TASKS** |  |  |
-|  |   |   |  |
-|  |   |   |  |
-| **12** | **My integer** | [**100-my_int.py**](./100-my_int.py) | [**def __eq__(self, value):**](./100-my_int.py)<br> [**def __ne__(self, value):**](./100-my_int.py) |
-| **13** | **Can I?** | [**101-add_attribute.py**](./101-add_attribute.py) | [**def add_attribute(obj, att, value):**](./101-add_attribute.py) |
+| **🌎** | **Print List** | [**print_list.c**](./print_list.c) | [**void print_list(const listint_t *list)**](./print_list.c) |
 |   |   |   |   |
 |   |   |   |   |
+|   | <H3 align="center">MANDATORY TASKS</H3> |  |  |
+|   |   |   |   |
+|   |   |   |  |
+| **0** | **Bubble sort** | [**0-bubble_sort.c**](./0-bubble_sort.c) | [**void bubble_sort(int *array, size_t size);**](./0-bubble_sort.c) |
+| **1** | **Insertion sort** | [**1-insertion_sort_list.c**](./1-insertion_sort_list.c) | [**void insertion_sort_list(listint_t **list);**](./1-insertion_sort_list.c) |
+| **2** | **Selection sort** | [**2-selection_sort.c**](./2-selection_sort.c) | [**void selection_sort(int *array, size_t size);**](./2-selection_sort.c) |
+| **3** | **Quick sort** | [**3-quick_sort.c**](./3-quick_sort.c) | [**void quick_sort(int *array, size_t size);**](./3-quick_sort.c) |
+|   |   |   |   |
+|  |   |   |  |
+|  | <H3 align="center">ADVANCED TASKS** |  |  |
+|  |   |   |  |
+|  |   |   |  |
+| **4** | **Shell sort <br>- Knuth Sequence** | [**100-shell_sort.c**](./100-shell_sort.c) | [**void shell_sort(int *array, size_t size);**](./100-shell_sort.c) |
+| **5** | **Cocktail shaker<br> sort** | [**101-cocktail_sort_list.c**](./101-cocktail_sort_list.c) | [**void cocktail_sort_list(listint_t **list);**](./101-cocktail_sort_list.c) |
+| **6** | **Counting sort** | [**102-counting_sort.c**](./102-counting_sort.c) | [**void counting_sort(int *array, size_t size);**](./102-counting_sort.c) |
+| **7** | **Merge sort** | [**103-merge_sort.c**](./103-merge_sort.c) | [**void merge_sort(int *array, size_t size);**](./103-merge_sort.c) |
+| **8** | **Heap sort** | [**104-heap_sort.c**](./104-heap_sort.c) | [**void heap_sort(int *array, size_t size););**](./104-heap_sort.c) |
+| **9** | **Radix sort** | [**105-radix_sort.c**](./105-radix_sort.c) | [**void radix_sort(int *array, size_t size);**](./105-radix_sort.c) |
+| **10** | **Bitonic sort** | [**106-bitonic_sort.c**](./106-bitonic_sort.c) | [**void bitonic_sort(int *array, size_t size);**](./106-bitonic_sort.c) |
+| **11** | **Quick Sort<br>- Hoare Partition scheme** | [**107-quick_sort_hoare.c**](./107-quick_sort_hoare.c) | [**void quick_sort_hoare(int *array, size_t size);**](./107-quick_sort_hoare.c) |
+| **12** | **Dealer** | [**1000-sort_deck.c**](./1000-sort_deck.c) | [**void sort_deck(deck_node_t **deck);**](./1000-sort_deck.c) |
+|   |   |   |   |
+|   |   |   |   |
+
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHBrC7w7h087BAGGWgHCq0selygLrotA9Mw&usqp=CAU" />
+</p>
+
+####
+
+<H2> 💎🕰<ins>The big O notations of the time complexity:</ins> ⌚️💼</H2>
+
+| <H3 align="center">Task NO.</H3> | <H3 align="center">Title</H3> | <H3 align="center">big O File</H3> | <H3 align="center"> time complexity<br> cases</H3> |
+| :----: | :----:| :---- | :---- |
+|   |   |   |   |
+|   |   |   |   |
+|   | <H3 align="center">MANDATORY TASKS</H3> |  |  |
+|   |   |   |   |
+|   |   |   |  |
+| **0** | **Bubble sort** | [**0-O**](./0-O) |  [**best case**](./0-O)<br>  [**average case**](./0-O)<br>  [**worst case**](./0-O) |
+| **1** | **Insertion sort** | [**1-O**](./1-O) |  [**best case**](./1-O)<br>  [**average case**](./1-O)<br>  [**worst case**](./1-O) |
+| **2** | **Selection sort** | [**2-O**](./2-O) |  [**best case**](./2-O)<br>  [**average case**](./2-O)<br>  [**worst case**](./2-O) |
+| **3** | **Quick sort** | [**3-O**](./3-O) |  [**best case**](./3-O)<br>  [**average case**](./3-O)<br>  [**worst case**](./3-O) |
+|   |   |   |   |
+|  |   |   |  |
+|  | <H3 align="center">ADVANCED TASKS** |  |  |
+|  |   |   |  |
+|  |   |   |  |
+| **5** | **Cocktail shaker<br> sort** | [**101-O**](./101-O) |  [**best case**](./101-O)<br>  [**average case**](./101-O)<br>  [**worst case**](./101-O) |
+| **6** | **Counting sort** | [**102-O**](./102-O) |  [**best case**](./102-O)<br>  [**average case**](./102-O)<br>  [**worst case**](./102-O) |
+| **7** | **Merge sort** | [**103-O**](./103-O) |  [**best case**](./103-O)<br>  [**average case**](./103-O)<br>  [**worst case**](./103-O) |
+| **8** | **Heap sort** | [**104-O**](./104-O) |  [**best case**](./104-O)<br>  [**average case**](./104-O)<br>  [**worst case**](./104-O) |
+| **10** | **Bitonic sort** | [**106-O**](./106-O) |  [**best case**](./106-O)<br>  [**average case**](./106-O)<br>  [**worst case**](./106-O) |
+| **11** | **Quick Sort<br>- Hoare Partition scheme** | [**107-O**](./107-O) |  [**best case**](./107-O)<br>  [**average case**](./107-O)<br>  [**worst case**](./107-O) |
+|   |   |   |   |
+|   |   |   |   |
+
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/650/1*6mpaXFsrRPFXSKXK5Qgm8w.png" />
+</p>
+ 
+###
+
+<H1> 🗂<ins>Project Test Folder</ins>📂 </H1>
+
+* [**tests**](./tests) : Folder is a folder of test folders and files. 
+  * There are two Folder inside [**tests**](./tests) folder, this are
+    * [**tests-main.c**](./tests/tests-main.c) Folder
+    * [**tests-output**](./tests/tests-output) Folder
+###
+
+<H2> Tests-main.c Folder 📁 And Files 📋 </H2> 🔖
+
+* [**tests-main.c**](./tests/tests-main.c) Folder is a folder of [**main.c**](./tests/tests-main.c) **files**.
+  * [**main.c**](./tests/tests-main.c) **files** are a files we can use them to test our functions.
+
+* Files📚 inside [**tests-main.c**](./tests/tests-main.c) Folder 📂
+  * [**0-main.c**](./tests/tests-main.c/0-main.c)
+  * [**1-main.c**](./tests/tests-main.c/1-main.c)
+  * [**2-main.c**](./tests/tests-main.c/2-main.c)
+  * [**3-main.c**](./tests/tests-main.c/3-main.c)
+  * [**100-main.c**](./tests/tests-main.c/100-main.c)
+  * [**101-main.c**](./tests/tests-main.c/101-main.c)
+  * [**102-main.c**](./tests/tests-main.c/102-main.c)
+  * [**103-main.c**](./tests/tests-main.c/103-main.c)
+  * [**104-main.c**](./tests/tests-main.c/104-main.c)
+  * [**105-main.c**](./tests/tests-main.c/105-main.c)
+  * [**106-main.c**](./tests/tests-main.c/106-main.c)
+  * [**107-main.c**](./tests/tests-main.c/107-main.c)
+  * [**1000-main.c**](./tests/tests-main.c/1000-main.c)
+###
+
+<H2> Tests-Output Folders📂 And Files 📋 </H2> 🔖
+
+* [**tests-output**](./tests/tests-output) Folder is a folder of [**output**](./tests/tests-output) **files**.
+  * [**output**](./tests/tests-output) **files** are a **compiled** files <ins>**output on Ubuntu 20.04 LTS**</ins> Using <ins>**gcc**</ins>, Using the options <ins>**-Wall -Werror -Wextra -pedantic -std=gnu89**</ins> plus using [**tests-main.c**](./tests/tests-main.c) **files**.
+
+* Files📚 inside [**tests-output**](./tests/tests-output) Folder 📂 are 
+  * [**bubble**](./tests/tests-output/bubble)
+  * [**insertion**](./tests/tests-output/insertion)
+  * [**select**](./tests/tests-output/select)
+  * [**quick**](./tests/tests-output/quick)
+  * [**shell**](./tests/tests-output/shell)
+  * [**cocktail**](./tests/tests-output/cocktail)
+  * [**counting**](./tests/tests-output/counting)
+  * [**merge**](./tests/tests-output/merge)
+  * [**heap**](./tests/tests-output/heap)
+  * [**radix**](./tests/tests-output/radix)
+  * [**bitonic**](./tests/tests-output/bitonic)
+  * [**quick**](./tests/tests-output/quick)
+  * [**deck**](./tests/tests-output/deck)
 
 ##
 
 <p align="center">
-  <img src="https://www.researchgate.net/publication/348959084/figure/tbl1/AS:986621331644426@1612240264658/Advantages-and-disadvantages-of-all-sorting-algorithms-V-COMPARATIVE-ANALYSIS-OF-ALL.png" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnADFFID8gyibJBT58LNB9RMgbMAzHbSgh6g&usqp=CAU" />
 </p>
 
 ##
@@ -279,7 +388,7 @@ typedef struct listint_s
 * **Here is a quick tip to help you test your sorting algorithms with big sets of random integers:** [**Random.org**](https://intranet.alxswe.com/rltoken/YR-VWQbICB59wZs1eAaI3w)
 
 <p align="center">
-  <img src="https://www.computerscijournal.org/wp-content/uploads/2014/12/Vol07_No3_Root_Pramo_Fig4.jpg" />
+  <img src="https://d3i71xaburhd42.cloudfront.net/f48c61536b5a70f7c9e35659774d565a038e1635/6-Figure11-1.png" />
 </p>
 
 ##
@@ -1324,7 +1433,7 @@ typedef struct deck_node_s
 * Each **node** of the [**doubly linked list**](https://en.wikipedia.org/wiki/Doubly_linked_list) **contains a card** that you **cannot modify**. You have to **swap the nodes.**
 * You can **assume there is exactly <ins>52 elements</ins>** in the [**doubly linked list**](https://en.wikipedia.org/wiki/Doubly_linked_list).
 * You are **free to use the <ins>sorting algorithm</ins> of your choice.**
-* The <ins>**deck must be ordered<ins>:**
+* The <ins>**deck must be ordered</ins>:**
   * From <ins>**Ace</ins>** 🅰️ to 🤴🏾 <ins>**King</ins>**
   * From <ins>**Spades</ins>** ♠️ to ♦️ <ins>**Diamonds</ins>**
   * See example below
