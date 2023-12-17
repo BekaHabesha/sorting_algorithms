@@ -1,7 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> . (periodii 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
 
-<p align="center", height="400">
+<p align="center", height="1400">
   🂡
 </p>
 
