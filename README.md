@@ -2,7 +2,7 @@
 <H1 align="center", height="1500"> . (periodii 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
 
 <p align="center", height="1400">
-  🂡
+`#RRGGBB`  🂡
 
 <span, height="6000", color="red">I am &#x2664; Symbol</span>
 
