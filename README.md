@@ -1,11 +1,13 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500">🃞 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
+<H1 align="center", height="1500"> . (periodii 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
 
 <p align="center">
   <img src="https://i.ibb.co/S5nxh7F/0x1-B-C-Sorting-algorithms-Big-O-Alx-enginn-logo.png" />
 </p>
 &#127137
 127137&#12782
+
+<img height="500", 🂡>
 
 ### [*0x1B. C - Sorting algorithms & Big O*](https://intranet.alxswe.com/projects/248) *is a project to be done in teams of 2 people or alone (solo)*
 * ***Done by:*** ***Bereket Dereje Mekonnen***
