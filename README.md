@@ -7,7 +7,9 @@
 <p style="color:blue">Make this text blue.</p>
 
 <p align="center", height="1400">
-#RRGGBBbeki  🂡
+
+#RRGGBB beki  🂡
+
 <code style="color : cyan">text</code>
 
 <span, height="6000", color="red">I am &#x2664; Symbol</span>
