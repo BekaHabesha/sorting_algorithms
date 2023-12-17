@@ -16,7 +16,8 @@
 <# 🂡>
 
 # [**🂡**](./read)
-
+<font color="#005CB9"
+face="courier" size="50">Bekiiii</font>
 <code style="color : cyan">text</code>
 
 <span, height="6000", color="red">I am &#x2664; Symbol</span>
@@ -25,6 +26,23 @@
 
  <p style="font-size: large, font-color:yellow"> font-size: large; &#x2664;</p>
 
+<style type="text/css">
+.custom {
+ font-family:courier;
+ color: red;
+ font-size:20px;
+}
+</style>
+<p class="custom"> beki</p>
+
+<style type="text/css">
+.custom {
+ font-family:courier;
+ color: red;
+ font-size:20px;
+}
+<p class="custom"> beki</p>
+</style>
 alt127166;
 
 # &#127166;
