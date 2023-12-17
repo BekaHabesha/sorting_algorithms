@@ -13,7 +13,7 @@
 
 <h1> [🂡](./read) </h1>
 
-# [🂡](./read)
+<# 🂡>
 
 # [**🂡**](./read)
 
@@ -21,9 +21,9 @@
 
 <span, height="6000", color="red">I am &#x2664; Symbol</span>
 
-<p style="font-size:2000px">&#x2664;</p>
+<p style="font-size: 2000px">&#x2664;</p>
 
- <p style="font-size:200px, font-color:yellow">&#x2664;</p>
+ <p style="font-size: large, font-color:yellow">&#x2664;</p>
 
 alt127166;
 
