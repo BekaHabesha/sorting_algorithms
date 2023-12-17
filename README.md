@@ -17,7 +17,9 @@ $red[beki]
 
 #RRGGBB beki  
 
-<h1> [🂡](./read) </h1>
+$${\color{red}🂡}$$
+$${\color{green}🂡}$$
+$${\size{large}🂡}$$
 
 <# 🂡>
 
