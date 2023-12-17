@@ -2,7 +2,7 @@
 <H1 align="center", height="1500"> . (periodii 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
 
 
-* $${\color{red}Red}$$
+* ${\color{red}Red}$
 
 $red[beki]
 
@@ -10,7 +10,7 @@ $red[beki]
 
 ${{\color{red}\Huge{\textsf{ Hi\there\ \}}}}\$
 
-${{\color{red}\xxl{\textsf{ Hi 🂶 there\ \}}}}\$
+${{\color{red}\XXL{\textsf{ Hi 🂶 there\ \}}}}\$
 ##
 - red
 🂸 🂷 🂶
