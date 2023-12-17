@@ -1,5 +1,5 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500"> <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
+<H1 align="center", height="1500"> 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
 
 <p align="center">
   <img src="https://i.ibb.co/S5nxh7F/0x1-B-C-Sorting-algorithms-Big-O-Alx-enginn-logo.png" />
