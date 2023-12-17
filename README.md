@@ -5,7 +5,12 @@
 * $${\color{red}Red}$$
 
 $red[beki]
+
+##
+
 ${{\color{red}\Huge{\textsf{ Hi\there\ \}}}}\$
+
+##
 - red
 🂸 🂷 🂶
 
@@ -23,6 +28,9 @@ $${\size{large}🂡}$$
 
 <# 🂡>
 
+$${\color{red}[abc\]\(https://google.fr)}$$
+
+<h1 style="color: red">text</h1>
 # [**🂡**](./read)
 <font color="#005CB9"
 face="courier" size="50">Bekiiii</font>
