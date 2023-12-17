@@ -8,7 +8,8 @@
 
 <p align="center", height="1400">
 
-#RRGGBB beki  🂡
+#RRGGBB beki  
+[**🂡**](./read,)
 
 <code style="color : cyan">text</code>
 
