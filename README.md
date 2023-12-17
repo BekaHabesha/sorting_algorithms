@@ -4,6 +4,9 @@
 <p align="center", height="1400">
   🂡
 </p>
+:4hearts:
+:hearts4:
+:hearts:
 
 <p align="center">
   <img src="https://i.ibb.co/S5nxh7F/0x1-B-C-Sorting-algorithms-Big-O-Alx-enginn-logo.png" />
