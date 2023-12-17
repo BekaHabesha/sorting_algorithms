@@ -21,7 +21,9 @@
 
 <span, height="6000", color="red">I am &#x2664; Symbol</span>
 
-<p height="6000", color="red">I am &#x2664; Symbol</p>
+<p style="font-size:100px">&#x2664;</p>
+
+ <p style="font-size:200px, font-color:yellow">&#x2664;</p>
 
 alt127166;
 
