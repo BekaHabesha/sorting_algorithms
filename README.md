@@ -14,8 +14,11 @@ ${{\color{green}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 
 ${{\color{red}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 
-${{\color{red}\Large{\textsf{ Hi 🂶 there\ \}}}}\$
-${{\color{red}\Big{\textsf{ Hi 🂶 there\ \}}}}\$
+${{\color{yellow}\Large{\textsf{ Hi 🂶 there\ \}}}}\$
+${{\color{red}\VeryLarge{\textsf{ Hi 🂶 there\ \}}}}\$
+
+${{\color{red}\Verylarge{\textsf{ Hi 🂶 there\ \}}}}\$
+
 ${{\color{red}\BigLarge{\textsf{ Hi 🂶 there\ \}}}}\$
 ##
 - red
