@@ -5,7 +5,8 @@
   <img src="https://i.ibb.co/S5nxh7F/0x1-B-C-Sorting-algorithms-Big-O-Alx-enginn-logo.png" />
 </p>
 &#127137
- 127137&#12782
+127137&#12782
+
 ### [*0x1B. C - Sorting algorithms & Big O*](https://intranet.alxswe.com/projects/248) *is a project to be done in teams of 2 people or alone (solo)*
 * ***Done by:*** ***Bereket Dereje Mekonnen***
 
