@@ -66,7 +66,7 @@
 |   | **MANDATORY TASKS** |  |  |
 |   |   |   |   |
 |   |   |   |  |
-| **0** | **Bubble sort** | [**0-bubble_sort.c**](./0-bubble_sort.c) | [**void bubble_sort(int *array, size_t size);**](./0-bubble_sort.c) |
+| **🌎** | **Bubble sort** | [**0-bubble_sort.c**](./0-bubble_sort.c) | [**void bubble_sort(int *array, size_t size);**](./0-bubble_sort.c) |
 |  |  | [**0-O**](./0-O) |  |
 | **1** | **My list** | [**1-my_list.py**](./[1-my_list.py) | [**def print_sorted(self):**](./1-my_list.py) |
 | **2** | **Exact same object** | [**2-is_same_class.py**](./2-is_same_class.py) | [**def is_same_class(obj, a_class):**](./2-is_same_class.py) |
