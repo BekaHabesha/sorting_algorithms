@@ -279,7 +279,7 @@ typedef struct listint_s
 * **Here is a quick tip to help you test your sorting algorithms with big sets of random integers:** [**Random.org**](https://intranet.alxswe.com/rltoken/YR-VWQbICB59wZs1eAaI3w)
 
 <p align="center">
-  <img src="https://d3i71xaburhd42.cloudfront.net/f48c61536b5a70f7c9e35659774d565a038e1635/6-Figure11-1.png" />
+  <img src="https://www.computerscijournal.org/wp-content/uploads/2014/12/Vol07_No3_Root_Pramo_Fig4.jpg" />
 </p>
 
 ##
