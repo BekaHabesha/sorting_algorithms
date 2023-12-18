@@ -1,4 +1,8 @@
-# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{aqua}{FILE}}$$
+# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{yellowgreen}{FILE}}$$
+# </ins>$$\mathbb{\color{teal}\Huge\ {README.md} \ \color{yellowgreen}{FILE}}$$</ins>
+## </ins>$$\mathbb{\color{green}\Huge\ {README.md} \ \color{teal}{FILE}}$$</ins>
+
+## $$\mathbb{\color{green}\Huge\ {README.md} \ \color{teal}{FILE}}$$
 
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> 🂡 <ins>0x1B. C - Sorting algorithms and Big O README.md File</ins></H1>
