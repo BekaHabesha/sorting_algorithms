@@ -1,5 +1,5 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500"> . (periodii 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins> </H1>
+<H1 align="center", height="1500"> ${{\color{green}\Huge{\textsf{ 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins>\ \}}}}\$ </H1>
 
 
 * ${\color{red}\Bold\textsf{ Red\ \}}$
