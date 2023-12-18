@@ -1,7 +1,7 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500"> ${{\color{green}\Huge{\textsf{ 🂡 <ins> 0x1B. C - Sorting algorithms and Big O README.md File</ins>\ \}}}}\$ </H1>
+<H1 align="center", height="1500"> ${{\color{green}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}\$ </H1>
 
-$${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
+$${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$<br>
 $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
 
 ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
@@ -13,14 +13,12 @@ ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md Fi
 # $${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
 # $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
 
-# $${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms 
-	and Big O README.md File\ \}}}}$$
+# $${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms 	and Big O README.md File\ \}}}}$$
 
 ${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms and\ Big\ O\ README.md\ File\ \}}}}\$
 
-* ${\color{red}\Bold\textsf{ Red\ \}}}$
+* ${\color{red}\Bold\textsf{ Red\ \}}$
 
-$red[beki]
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
@@ -32,7 +30,13 @@ $\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{
 
 $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
 
+# $\mathfrak{\color{lime}{This \ is \ a \ paragraph \ in \ another \ font}}$
 
+# $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
+
+# $\matfrak{\color{purple}\Huge{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+
+$\matfrak{\color{purple}\Huge{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 ##
 $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}Github}$$
 
