@@ -298,8 +298,8 @@ U+1F0B1
 ##
 
 <h1> <ins>Resources</ins> 💾</H1>
-${\color{red}\textsf{ Red\ \}}$
-### **Read 📖 or watch🎞:** 🔖${\color{red}Red}$
+
+### **Read 📖 or watch🎞:** 🔖$
 * ${\color{red}\textsf{ [**Sorting algorithm**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)\ \}}$
 * [**Big O notation**](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
 * [**Sorting algorithms animations**](https://intranet.alxswe.com/rltoken/ol0P7NbYVb5R31iOv4Q40A)
