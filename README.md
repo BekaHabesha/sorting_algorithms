@@ -53,7 +53,7 @@ $\mathfrak{\color{purple}\Huge\ {this \ is \ a \ paragraph} \ \color{cyan}{in \ 
 
 # $\mathbb{\color{teal}{This \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
 # $\mathbb{\color{red}{This \ is \ a \ \ paragraph \ in \ another \ font}}$
-# $\mathbb{\color{red}\Huge\{This \ is \ a \ \color{yellow}{paragraph \ in \ another \ font}}$
+# $\mathbb{\color{red}\Huge\ {This \ is \ a} \ \color{yellow}{paragraph \ in \ another \ font}}$
 
 ##
 
