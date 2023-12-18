@@ -1,4 +1,4 @@
-# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{yellowgreen}{FILE}}$$
+# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$
 # $$\mathbb{\color{gold}\Huge\ {README.md} \ \color{yellowgreen}{FILE}}$$
 ## $$\mathbb{\color{blue}\Huge\ {README.md} \ \color{orange}{FILE}}$$
 
@@ -13,6 +13,14 @@
 # $$\mathcal{\color{blue}\Huge\ {README.md} \ \color{gold}{FILE}}$$
 
 ## $$\mathbb{\color{green}\Huge\ {README.md} \ \color{teal}{FILE}}$$
+
+
+# ${{\color{green}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+# ${{\color{green}\Huge\{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+
+# ${{\color{red}🂱 \space \color{black}🂡 \space \color{Green}0x1B.C-Sorting Algorithms and Big O README.md \space \color{black}🂮 \space \color{red}🂾 \ \}}}}$
+
+# ${{\color{red}\Huge\🂱 \space \color{black}🂡 \space \color{Green}0x1B.C-Sorting Algorithms and Big O README.md \space \color{black}🂮 \space \color{red}🂾 \ \}}}}$
 
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> 🂡 <ins>0x1B. C - Sorting algorithms and Big O README.md File</ins></H1>
@@ -48,6 +56,10 @@ ${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms and\ Big\ 
 
 * ${\color{red}{textsf{ Red\ \}}$
 
+# ${{\color{green}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+# ${{\color{red}🂱 \space \color{black}🂡 \space \color{Green}0x1B.C-Sorting Algorithms and Big O README.md \space \color{black}🂮 \space \color{red}🂾 \ \}}}}$
+
+# ${{\color{red}🂱 \space \color{black}🂡 \space \color{Green}0x1B.C-Sorting Algorithms and Big O README.     md \space \color{black}🂮 \space \color{red}🂾 \ \}}}}$
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
