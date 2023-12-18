@@ -14,7 +14,7 @@ $red[beki]
 
 $${{\color{red}\Huge\ Hi \space
 \color{lightblue}To \space
-\color{lightgreen}there\ \}}}}\$$
+\color{lightgreen}there\ \}}}\$$
 
 ${{\color{green}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 
