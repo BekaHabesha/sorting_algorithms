@@ -1,23 +1,23 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> ${{\color{green}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}\$ </H1>
 
-$${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$<br>
+$${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
 $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
 
 ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
 
-# ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
+# ${\color{cyan}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
 
 # $${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$$
 
-# $${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
+# $${{\color{orange}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
 # $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
 
-# $${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms 	and Big O README.md File\ \}}}}$$
+## $${{\color{purpule}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$$
 
 ${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms and\ Big\ O\ README.md\ File\ \}}}}\$
 
-* ${\color{red}\Bold\{textsf{ Red\ \}}$
+* ${\color{red}\Bold\ {textsf{ Red\ \}}$
 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
@@ -30,20 +30,26 @@ $\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{
 
 $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
 
+
+
 # $\mathfrak{\color{cyan}{This \ is \ a \ paragraph \ in \ another \ font}}$
 
 # $\mathfrak{\color{lime}\Huge\{this \ is \ a \ paragraph \ in \ another \ font}}$
 
-# $\matfrak{{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}}$
+# $\matfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}$
 
-$matfrak{{\color{purple}\Huge\{this \ is \ a \ paragraph} \\ \color{cyan}{in \ another \ font}}$
 
-$\matfrak\{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+
+$\matfrak{\color{purple}\Huge\ {this \ is \ a \ paragraph} \\ \color{cyan}{in \ another \ font}}$
+
+$\matfrak{\color{purple}\Huge\ {this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
 # $\mathbb{\color{teal}{This \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
 # $\mathbb{\color{red}{This \ is \ a \ \ paragraph \ in \ another \ font}}$
-# $\mathbb{\color{red}\Huge\{This \ is \ a \ \color{yellow}{paragraph \ in \ another \ font}}$
+# $\mathbb{\color{red}\Huge\ {This \ is \ a \ \color{yellow}{paragraph \ in \ another \ font}}$
+
 ##
+
 $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}Github}$$
 
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
@@ -65,8 +71,6 @@ $\text{hello}$    #normal
 $\Large{hello}$$   #Bigger text size
 
 $$\LaTeX$$
-
-
 $\colorbox{red}{text}$
 
 Text inside bordered Box
@@ -74,7 +78,7 @@ Text inside bordered Box
 $\fbox{Hello there}$
 
 ## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
-## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
+## $\colorbox{green}{{\color{red}{This\ is\ a\ Big\ Title}}}$
 # ${This\ is\ a\ {\color{red}Big}}\ Title$
 
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
@@ -83,18 +87,16 @@ $\fbox{Hello there}$
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
-$${{\color{red}\Huge\ Hi }\space
-{\color{lightblue}To }\space
-{\color{lightgreen}there}\ \}}}\$$
+$${{\color{red}\Huge\ Hi } \space {\color{lightblue}To } \space {\color{lightgreen}there}\ \}}$$
 
 ${{\color{green}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 
 ${{\color{red}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 
 ${{\color{yellow}\Large{\textsf{ Hi 🂶 there\ \}}}}\$
-${{\color{red}\VeryLarge{\textsf{ Hi 🂶 there\ \}}}}\$
-
 ${{\color{red}\Verylarge{\textsf{ Hi 🂶 there\ \}}}}\$
+
+${{\color{red}\ExtraLarge{\textsf{ Hi 🂶 there\ \}}}}\$
 
 ${{\color{red}\BigLarge{\textsf{ Hi 🂶 there\ \}}}}\$
 ##
