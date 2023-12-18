@@ -12,7 +12,7 @@ $red[beki]
 
 ##
 
-$${{\color{red}\Huge{\textsf{ Hi\there\ \}}}}\$$
+$${{\color{red}\Huge{\textsf{ Hi \space\ to \space\ there\ \}}}}\$$
 
 ${{\color{green}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 
