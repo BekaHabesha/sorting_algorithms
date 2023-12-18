@@ -298,9 +298,9 @@ U+1F0B1
 ##
 
 <h1> <ins>Resources</ins> 💾</H1>
-
+${\color{red}\textsf{ Red\ \}}$
 ### **Read 📖 or watch🎞:** 🔖${\color{red}Red}$
-* ${\color{red}[**Sorting algorithm**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)}$
+* ${\color{red}\textsf{ [**Sorting algorithm**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)\ \}}$
 * [**Big O notation**](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
 * [**Sorting algorithms animations**](https://intranet.alxswe.com/rltoken/ol0P7NbYVb5R31iOv4Q40A)
 * [**15 sorting algorithms in 6 minutes**](https://intranet.alxswe.com/rltoken/_I0aEvhfJ66Xyob6dd9Utw) (***WARNING:*** *The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms*)
