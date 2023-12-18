@@ -34,9 +34,11 @@ $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
 
 # $\mathfrak{\color{lime}\Huge\{this \ is \ a \ paragraph \ in \ another \ font}}$
 
-# $\matfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+# $\matfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}$
 
-$\matfrak{\color{purple}\Huge{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+$\matfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+
+$\matfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}$
 ##
 $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}Github}$$
 
