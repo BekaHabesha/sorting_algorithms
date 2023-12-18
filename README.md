@@ -2,6 +2,15 @@
 # </ins>$$\mathbb{\color{teal}\Huge\ {README.md} \ \color{yellowgreen}{FILE}}$$</ins>
 ## </ins>$$\mathbb{\color{green}\Huge\ {README.md} \ \color{teal}{FILE}}$$</ins>
 
+# $$\mathscr{\color{blue}\Huge\ {README.md} \ \ \color{gold}{FILE}}$
+## $$\mathscr{\color{blue}\Huge\ {README.md} \ \ \color{gold}{FILE}}$
+
+# $$\mathfrak{\color{blue}\Huge\ {README.md} \ \ \color{gold}{FILE}}$
+## $$\mathfrak{\color{blue}\Huge\ {README.md} \ \ \color{gold}{FILE}}$
+# $$\mathfrak{\color{blue}{README.md} \ \ \color{gold}{FILE}}$
+
+# $$\mathcal{\color{blue}\Huge\ {README.md} \ \ \color{gold}{FILE}}$
+
 ## $$\mathbb{\color{green}\Huge\ {README.md} \ \color{teal}{FILE}}$$
 
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
