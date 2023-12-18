@@ -30,11 +30,11 @@ $\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{
 
 $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
 
-# $\mathfrak{\color{lime}{This \ is \ a \ paragraph \ in \ another \ font}}$
+# $\mathfrak{\color{cyan}{This \ is \ a \ paragraph \ in \ another \ font}}$
 
-# $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
+# $\mathfrak{\color{lime}\Huge\{this \ is \ a \ paragraph \ in \ another \ font}}$
 
-# $\matfrak{\color{purple}\Huge{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+# $\matfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
 $\matfrak{\color{purple}\Huge{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 ##
