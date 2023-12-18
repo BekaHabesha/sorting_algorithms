@@ -17,7 +17,7 @@ ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md Fi
 
 ${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms and\ Big\ O\ README.md\ File\ \}}}}\$
 
-* ${\color{red}\Bold\textsf{ Red\ \}}$
+* ${\color{red}\Bold\{textsf{ Red\ \}}$
 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
@@ -34,15 +34,15 @@ $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
 
 # $\mathfrak{\color{lime}\Huge\{this \ is \ a \ paragraph \ in \ another \ font}}$
 
-# $\matfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}$
+# $\matfrak{{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}}$
 
-$matfrak{{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
+$matfrak{{\color{purple}\Huge\{this \ is \ a \ paragraph} \\ \color{cyan}{in \ another \ font}}$
 
 $\matfrak\{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
 # $\mathbb{\color{teal}{This \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
 # $\mathbb{\color{red}{This \ is \ a \ \ paragraph \ in \ another \ font}}$
-# $\mathbb{\color{red}\Huge\{This \ is \ a \ \ paragraph \ in \ another \ font}}$
+# $\mathbb{\color{red}\Huge\{This \ is \ a \ \color{yellow}{paragraph \ in \ another \ font}}$
 ##
 $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}Github}$$
 
