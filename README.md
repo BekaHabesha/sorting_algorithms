@@ -4,7 +4,7 @@
 
 ${{\color{green}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms& Big O README.md File\ \}}}}\$
 
-$${{\color{green}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms& Big O README.md File\ \}}}}\$$
+$${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms&\ Big\ O\ README.md\ File\ \}}}}\$$
 
 * ${\color{red}\Bold\textsf{ Red\ \}}$
 
