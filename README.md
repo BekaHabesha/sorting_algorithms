@@ -2,9 +2,11 @@
 <H1 align="center", height="1500"> ${{\color{green}\Huge{\textsf{ 🂡 <ins> 0x1B. C - Sorting algorithms & Big O README.md File</ins>\ \}}}}\$ </H1>
 
 
-${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms& Big O README.md File\ \}}$
+${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
 
-${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms&\ Big\ O\ README.md\ File\ \}}}}\$
+# ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
+
+${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms and\ Big\ O\ README.md\ File\ \}}}}\$
 
 * ${\color{red}\Bold\textsf{ Red\ \}}$
 
