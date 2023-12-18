@@ -1,5 +1,5 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500"> ${{\color{green}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}\$ </H1>
+<H1 align="center", height="1500"> 🂡 <ins>0x1B. C - Sorting algorithms and Big O README.md File</ins></H1>
 
 ${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$
 ${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$
@@ -8,7 +8,13 @@ ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md Fi
 
 # ${\color{cyan}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
 
-# $${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$$
+# ${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+## ${{\color{yellow}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+### ${{\color{green}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+
+# ${{\color{green}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+## ${{\color{yellow}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
+### ${{\color{red}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
 
 # $${{\color{orange}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
 # $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
