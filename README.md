@@ -6,7 +6,7 @@ ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md Fi
 
 # ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
 
-# ${\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}\$
+# ${\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
 
 ${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms and\ Big\ O\ README.md\ File\ \}}}}\$
 
