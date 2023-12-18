@@ -1,6 +1,8 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> ${{\color{green}\Huge{\textsf{ 🂡 <ins> 0x1B. C - Sorting algorithms and Big O README.md File</ins>\ \}}}}\$ </H1>
 
+$${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
+$${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
 
 ${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
 
@@ -22,9 +24,9 @@ $red[beki]
 
 ##
 
-$${{\color{red}\Huge\ Hi \space
-\color{lightblue}To \space
-\color{lightgreen}there\ \}}}\$$
+$${{\color{red}\Huge\ Hi }\space
+{\color{lightblue}To }\space
+{\color{lightgreen}there}\ \}}}\$$
 
 ${{\color{green}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
 
