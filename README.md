@@ -1,4 +1,4 @@
-## ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ $\mathbb{\color{green{0x1B.C-} \ \color{teal}{Sorting \ Algorithms} \ \color{red}{And} \ \color{green}{Big O} \ \color{teal}{README.md}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
+## ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ $\mathbb{\color{green}{0x1B.C-} \ \color{teal}{Sorting \ Algorithms} \ \color{red}{And} \ \color{green}{Big O} \ \color{teal}{README.md}}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
 
 
 # $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$
