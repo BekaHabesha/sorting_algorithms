@@ -1,3 +1,5 @@
+# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{aqua}{FILE}}$$
+
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center", height="1500"> 🂡 <ins>0x1B. C - Sorting algorithms and Big O README.md File</ins></H1>
 
