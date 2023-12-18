@@ -1,243 +1,9 @@
-## ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ $\mathbb{\color{green}\Huge\ {0x1B.C-} \ \color{teal}{Sorting \ Algorithms} \ \color{green}{And} \ \color{teal}{Big O}\}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
-
-
 # $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$
-# $$\mathbb{\color{gold}\Huge\ {README.md} \ \color{yellowgreen}{FILE}}$$
-## $$\mathbb{\color{blue}\Huge\ {README.md} \ \color{orange}{FILE}}$$
-
-# $$\mathscr{\color{blue}\Huge\ {README.md} \ \color{gold}{FILE}}$$
-## $$\mathscr{\color{blue}\Huge\ {README.md} \ \color{gold}{FILE}}$$
-
-# $$\mathfrak{\color{blue}\Huge\ {README.md} \ \color{gold}{FILE}}$$
-## $$\mathfrak{\color{blue}\Huge\ {README.md} \ \ \color{gold}{FILE}}$$
-# $$\mathfrak{\color{blue}{README.md} \ \color{gold}{FILE}}$$
-
-# ${{\color{teal}\Huge{\textsf{README.md File\ \}}}}$
-# $$\mathcal{\color{blue}\Huge\ {README.md} \ \color{gold}{FILE}}$$
-
-## $$\mathbb{\color{green}\Huge\ {README.md} \ \color{teal}{FILE}}$$
-
-
-# ${{\color{green}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-# ${{\color{green}\Huge\{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-## ${{\color{green}\Huge\{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-
-# ${{\color{red}{🂱} \space \color{black}{🂡} \space \color{Green}{0x1B.C-Sorting Algorithms and Big O README.md} \space \color{black}{🂮} \space \color{red}{🂾} \ \}}}$
-
-# ${{\color{red}\Huge\🂱 \space \color{black}🂡 \space \color{Green}0x1B.C-Sorting Algorithms and Big O README.md \space \color{black}🂮 \space \color{red}🂾 \ \}}}$
-
-<H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
-<H1 align="center", height="1500"> 🂡 <ins>0x1B. C - Sorting algorithms and Big O README.md File</ins></H1>
-
-$\mathbb{\color{red}\Huge\ {🂱} \ \color{black}{🂡} \ \color{teal}{0x1B. \ C-Sorting \ Algorithms \ and \ Big \ O \ README.md} \ \color{black}{🂮} \ \color{red}{🂾}}$
-
-# $\mathbb{\color{red}\Huge\ {🂱} \ \color{black}{🂡} \ \color{green}{0x1B.C-Sorting Algorithms and Big O README.md} \ \color{black}{🂮} \ \color{red}{🂾}}$
-## $\mathbb{\color{red}\Huge\ {🂱} \ \color{black}{🂡} \ \color{green}{0x1B.C-Sorting Algorithms and Big      O README.md} \ \color{black}{🂮} \ \color{red}{🂾}}$
-# $\mathbb{\color{red}{🂱} \ \color{black}{🂡} \ \color{green}{0x1B.C-Sorting Algorithms and Big      O README.md} \ \color{black}{🂮} \ \color{red}{🂾}}$
-
-$\mathfrak{\color{red}\Huge\ {🂱🂾} \ \color{green}{0x1B.C-Sorting Algorithms and Big O README.md} \ \color{black}{🂡🂮}}$
-
-# $\mathfrak{\color{red}\Huge\ {🂱🂾} \ \color{green}{0x1B.C-Sorting Algorithms and Big O README.md} \ \color{black}{🂡🂮}}$
-## $\mathfrak{\color{red}\Huge\ {🂱🂾} \ \color{green}{0x1B.C-Sorting Algorithms and Big O README.md} \ \c     olor{black}{🂡🂮}}$
-# $\mathfrak{\color{red}{🂱🂾} \ \color{green}{0x1B.C-Sorting Algorithms and Big O README.md} \ \c     olor{black}{🂡🂮}}$
-
-
-${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$
-${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$
-
-${\color{green}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
-
-# ${\color{cyan}\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}$
-
-# ${{\color{red}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-## ${{\color{yellow}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-### ${{\color{green}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-
-# ${{\color{green}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-## ${{\color{yellow}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-### ${{\color{red}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-
-# $${{\color{orange}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
-# $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
-
-## $${{\color{orange}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
-## $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
-
-
-### $${{\color{orange}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms\ \}}}}$$
-### $${{\color{Blue}\Huge{\textsf{ 🂡 and Big O README.md File\ \}}}}$$
-
-## $${{\color{cyan}\Huge{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$$
-
-${{\color{green}\Huge{\textsf{ 🂡\ 0x1B.\ C\ -\ Sorting\ algorithms and\ Big\ O\ README.md\ File\ \}}}}\$
-
-* ${\color{red}{textsf{ Red\ \}}$
-
-# ${{\color{green}{\textsf{ 🂡 0x1B. C - Sorting algorithms and Big O README.md File\ \}}}}$
-# ${{\color{red}🂱 \space \color{black}🂡 \space \color{Green}0x1B.C-Sorting Algorithms and Big O README.md \space \color{black}🂮 \space \color{red}🂾 \ \}}}}$
-
-# ${{\color{red}🂱 \space \color{black}🂡 \space \color{Green}0x1B.C-Sorting Algorithms and Big O README.     md \space \color{black}🂮 \space \color{red}🂾 \ \}}}}$
-
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
-$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
-
-$\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
-
-$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
-
-$\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
-
-
-
-# $\mathfrak{\color{cyan}{This \ is \ a \ paragraph \ in \ another \ font}}$
-
-# $\mathfrak{\color{lime}\Huge\{this \ is \ a \ paragraph \ in \ another \ font}}$
-
-# $\mathfrak{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}$
-
-# $\mathcal{\color{purple}\Huge\{this \ is \ a \ paragraph} \ \color{cyan}\Huge\{in \ another \ font}}$
-
-$\mathfrak{\color{purple}\Huge\ {this \ is \ a \ paragraph} \\ \color{cyan}{in \ another \ font}}$
-
-$\mathfrak{\color{purple}\Huge\ {this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
-
-# $\mathbb{\color{teal}{This \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
-# $\mathbb{\color{red}{This \ is \ a \ \ paragraph \ in \ another \ font}}$
-# $\mathbb{\color{red}\Huge\ {This \ is \ a} \ \color{yellow}{paragraph \ in \ another \ font}}$
-
-##
-
-$${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}Github}$$
-
-$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
-
-$\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
-
-$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
-
-$\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
-
-$\mathscr{\color{red}{mon}\color{white}{day}}$
-
-$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
-
-$\textit{hello}$  #italic
-$\textit{hello}$
-
-$\text{hello}$    #normal
-
-$\Large{hello}$$   #Bigger text size
-
-$\Large{hello}$$
-
-$$\LaTeX$$
-$\LaTeX$
-
-$\colorbox{red}{text}$
-
-Text inside bordered Box
-
-$\fbox{Hello there}$
-
-## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
-## $\colorbox{green}{{\color{red}{This\ is\ a\ Big\ Title}}}$
-## $\colorinbox{green}{{\color{red}{This\ is\ a\ Big\ Title}}}$
-# ${This\ is\ a\ {\color{red}Big}}\ Title$
-
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
-[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
-
-$${{\color{red}\Huge\{ Hi } \space {\color{lightblue}To } \space {\color{lightgreen}there}\ \}}$$
-
-${{\color{green}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
-
-${{\color{red}\Huge{\textsf{ Hi 🂶 there\ \}}}}\$
-
-${{\color{yellow}\Large{\textsf{ Hi 🂶 there\ \}}}}\$
-${{\color{red}\Verylarge{\textsf{ Hi 🂶 there\ \}}}}\$
-
-${{\color{red}\ExtraLarge{\textsf{ Hi 🂶 there\ \}}}}\$
-
-${{\color{red}\BigLarge{\textsf{ Hi 🂶 there\ \}}}}\$
-##
-- red
-🂸 🂷 🂶
-
-<font color="red">This text is red!</font>
-
-<p style="color:blue">Make this text blue.</p>
-
-<p align="center", height="1400">
-
-#RRGGBB beki  
-
-$${\color{red}🂡}$$
-$${\color{green}🂡}$$
-$${\size{large}🂡}$$
-
-<# 🂡>
-
-$${\color{red}[abc\]\(https://google.fr)}$$
-
-<h1 style="color: red">text</h1>
-# [**🂡**](./read)
-<font color="#005CB9"
-face="courier" size="50">Bekiiii</font>
-<code style="color : cyan">text</code>
-
-<span, height="6000", color="red">I am &#x2664; Symbol</span>
-
-<p style="font-size: 80%">&#x2664;</p>
-
- <p style="font-size: large, font-color:yellow"> font-size: large; &#x2664;</p>
-
-<style type="text/css">
-.custom {
- font-family:courier;
- color: red;
- font-size:20px;
-}
-</style>
-<p class="custom"> beki</p>
-
-<style type="text/css">
-.custom {
- font-family:courier;
- color: red;
- font-size:20px;
-}
-<p class="custom"> beki</p>
-</style>
-alt127166;
-
-# &#127166;
-\1f0be;
-## &#x1f0be;
-
-<font-size:large> beki</font>
-<font, font-size:"large"> beki</font>
-<font-size:large> beki
-<font-size:"large"> beki</font>
-<font> <font-size:large> beki</font>
-
-:4hearts:
-:hearts4:
-:hearts:
-
-U+1F0B1;
-U+1F0B1
+## ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ $\mathbb{\color{green}\Huge\ {0x1B.C-} \ \color{teal}{Sorting \ Algorithms} \ \color{green}{And} \ \color{teal}{Big O}\}$ ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$
 
 <p align="center">
   <img src="https://i.ibb.co/S5nxh7F/0x1-B-C-Sorting-algorithms-Big-O-Alx-enginn-logo.png" />
 </p>
-&#127137;
-127137&#12782
-
-<img height="500", 🂡>
 
 ### [*0x1B. C - Sorting algorithms & Big O*](https://intranet.alxswe.com/projects/248) *is a project to be done in teams of 2 people or alone (solo)*
 * ***Done by:*** ***Bereket Dereje Mekonnen***
@@ -291,7 +57,7 @@ U+1F0B1
 
 ###
 
-<H1 align="center"> 📚📋<ins>Project Files</ins>📑📒 📱📔<ins>Function Prototypes:</ins>📲📓<br> 🗂📁<ins>Project Test Folder</ins>📂🗂</H1>
+<H1 align="center"> 📚<ins>Project Files</ins>📑📋 📱<ins>Function Prototypes:</ins>📔📲<br> And 🗂<ins>Project Test Folder</ins>📁📂</H1>
 
 <H1> 📚<ins>Project Files</ins>📑 </H1>
 
@@ -316,7 +82,6 @@ U+1F0B1
 |   |   |   |   |
 |   |   |   |  |
 | **🌍** | **Print Array** | [**print_array.c**](./print_array.c) | [**void print_array(const int *array, size_t size)**](./print_array.c) |
-|  |  | [**0-O**](./0-O) |  |
 | **🌎** | **Print List** | [**print_list.c**](./print_list.c) | [**void print_list(const listint_t *list)**](./print_list.c) |
 |   |   |   |   |
 |   |   |   |   |
@@ -324,28 +89,28 @@ U+1F0B1
 |   |   |   |   |
 |   |   |   |  |
 | **0** | **Bubble sort** | [**0-bubble_sort.c**](./0-bubble_sort.c) | [**void bubble_sort(int *array, size_t size);**](./0-bubble_sort.c) |
-| **1** | **Insertion sort** | [**1-insertion_sort_list.c**](./1-insertion_sort_list.c) | [**void insertion_sort_list(listint_t **list);**](./1-insertion_sort_list.c) |
+| **1** | **Insertion sort** | [**1-insertion_sort_list.c**](./1-insertion_sort_list.c) | [**void insertion_sort_list(listint_t** __**list);__](./1-insertion_sort_list.c) |
 | **2** | **Selection sort** | [**2-selection_sort.c**](./2-selection_sort.c) | [**void selection_sort(int *array, size_t size);**](./2-selection_sort.c) |
 | **3** | **Quick sort** | [**3-quick_sort.c**](./3-quick_sort.c) | [**void quick_sort(int *array, size_t size);**](./3-quick_sort.c) |
 |   |   |   |   |
 |  |   |   |  |
-|  | <H3 align="center">ADVANCED TASKS** |  |  |
+|  | <H3 align="center">ADVANCED TASKS |  |  |
 |  |   |   |  |
 |  |   |   |  |
 | **4** | **Shell sort <br>- Knuth Sequence** | [**100-shell_sort.c**](./100-shell_sort.c) | [**void shell_sort(int *array, size_t size);**](./100-shell_sort.c) |
-| **5** | **Cocktail shaker<br> sort** | [**101-cocktail_sort_list.c**](./101-cocktail_sort_list.c) | [**void cocktail_sort_list(listint_t **list);**](./101-cocktail_sort_list.c) |
+| **5** | **Cocktail shaker<br> sort** | [**101-cocktail_sort_list.c**](./101-cocktail_sort_list.c) | [**void cocktail_sort_list(listint_t** __**list);__](./101-cocktail_sort_list.c) |
 | **6** | **Counting sort** | [**102-counting_sort.c**](./102-counting_sort.c) | [**void counting_sort(int *array, size_t size);**](./102-counting_sort.c) |
 | **7** | **Merge sort** | [**103-merge_sort.c**](./103-merge_sort.c) | [**void merge_sort(int *array, size_t size);**](./103-merge_sort.c) |
 | **8** | **Heap sort** | [**104-heap_sort.c**](./104-heap_sort.c) | [**void heap_sort(int *array, size_t size););**](./104-heap_sort.c) |
 | **9** | **Radix sort** | [**105-radix_sort.c**](./105-radix_sort.c) | [**void radix_sort(int *array, size_t size);**](./105-radix_sort.c) |
 | **10** | **Bitonic sort** | [**106-bitonic_sort.c**](./106-bitonic_sort.c) | [**void bitonic_sort(int *array, size_t size);**](./106-bitonic_sort.c) |
 | **11** | **Quick Sort<br>- Hoare Partition scheme** | [**107-quick_sort_hoare.c**](./107-quick_sort_hoare.c) | [**void quick_sort_hoare(int *array, size_t size);**](./107-quick_sort_hoare.c) |
-| **12** | **Dealer** | [**1000-sort_deck.c**](./1000-sort_deck.c) | [**void sort_deck(deck_node_t **deck);**](./1000-sort_deck.c) |
+| **12** | **Dealer** | [**1000-sort_deck.c**](./1000-sort_deck.c) | [**void sort_deck(deck_node_t** __**deck);__](./1000-sort_deck.c) |
 |   |   |   |   |
 |   |   |   |   |
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHBrC7w7h087BAGGWgHCq0selygLrotA9Mw&usqp=CAU" />
+  <img src="https://miro.medium.com/v2/resize:fit:942/1*zr053Q07JOcjpFPh4iDJCA.png" />
 </p>
 
 ####
@@ -359,21 +124,21 @@ U+1F0B1
 |   | <H3 align="center">MANDATORY TASKS</H3> |  |  |
 |   |   |   |   |
 |   |   |   |  |
-| **0** | **Bubble sort** | [**0-O**](./0-O) |  [**best case**](./0-O)<br>  [**average case**](./0-O)<br>  [**worst case**](./0-O) |
-| **1** | **Insertion sort** | [**1-O**](./1-O) |  [**best case**](./1-O)<br>  [**average case**](./1-O)<br>  [**worst case**](./1-O) |
-| **2** | **Selection sort** | [**2-O**](./2-O) |  [**best case**](./2-O)<br>  [**average case**](./2-O)<br>  [**worst case**](./2-O) |
-| **3** | **Quick sort** | [**3-O**](./3-O) |  [**best case**](./3-O)<br>  [**average case**](./3-O)<br>  [**worst case**](./3-O) |
+| **0** | **Bubble sort** | [**0-O**](./0-O) | 🟢 [**best case**](./0-O)<br> 🟡 [**average case**](./0-O)<br> 🔴 [**worst case**](./0-O) |
+| **1** | **Insertion sort** | [**1-O**](./1-O) | 🟢 [**best case**](./1-O)<br> 🟡 [**average case**](./1-O)<br> 🔴 [**worst case**](./1-O) |
+| **2** | **Selection sort** | [**2-O**](./2-O) | 🟢 [**best case**](./2-O)<br> 🟡 [**average case**](./2-O)<br> 🔴 [**worst case**](./2-O) |
+| **3** | **Quick sort** | [**3-O**](./3-O) | 🟢 [**best case**](./3-O)<br> 🟡 [**average case**](./3-O)<br> 🔴 [**worst case**](./3-O) |
 |   |   |   |   |
 |  |   |   |  |
 |  | <H3 align="center">ADVANCED TASKS** |  |  |
 |  |   |   |  |
 |  |   |   |  |
-| **5** | **Cocktail shaker<br> sort** | [**101-O**](./101-O) |  [**best case**](./101-O)<br>  [**average case**](./101-O)<br>  [**worst case**](./101-O) |
-| **6** | **Counting sort** | [**102-O**](./102-O) |  [**best case**](./102-O)<br>  [**average case**](./102-O)<br>  [**worst case**](./102-O) |
-| **7** | **Merge sort** | [**103-O**](./103-O) |  [**best case**](./103-O)<br>  [**average case**](./103-O)<br>  [**worst case**](./103-O) |
-| **8** | **Heap sort** | [**104-O**](./104-O) |  [**best case**](./104-O)<br>  [**average case**](./104-O)<br>  [**worst case**](./104-O) |
-| **10** | **Bitonic sort** | [**106-O**](./106-O) |  [**best case**](./106-O)<br>  [**average case**](./106-O)<br>  [**worst case**](./106-O) |
-| **11** | **Quick Sort<br>- Hoare Partition scheme** | [**107-O**](./107-O) |  [**best case**](./107-O)<br>  [**average case**](./107-O)<br>  [**worst case**](./107-O) |
+| **5** | **Cocktail shaker<br> sort** | [**101-O**](./101-O) | 🟢 [**best case**](./101-O)<br> 🟡 [**average case**](./101-O)<br> 🔴 [**worst case**](./101-O) |
+| **6** | **Counting sort** | [**102-O**](./102-O) | 🟢 [**best case**](./102-O)<br> 🟡 [**average case**](./102-O)<br> 🔴 [**worst case**](./102-O) |
+| **7** | **Merge sort** | [**103-O**](./103-O) | 🟢 [**best case**](./103-O)<br> 🟡 [**average case**](./103-O)<br> 🔴 [**worst case**](./103-O) |
+| **8** | **Heap sort** | [**104-O**](./104-O) | 🟢 [**best case**](./104-O)<br> 🟡 [**average case**](./104-O)<br> 🔴 [**worst case**](./104-O) |
+| **10** | **Bitonic sort** | [**106-O**](./106-O) | 🟢 [**best case**](./106-O)<br> 🟡 [**average case**](./106-O)<br> 🔴 [**worst case**](./106-O) |
+| **11** | **Quick Sort<br>- Hoare Partition scheme** | [**107-O**](./107-O) | 🟢 [**best case**](./107-O)<br> 🟡 [**average case**](./107-O)<br> 🔴 [**worst case**](./107-O) |
 |   |   |   |   |
 |   |   |   |   |
 
@@ -383,7 +148,7 @@ U+1F0B1
  
 ###
 
-<H1> 🗂<ins>Project Test Folder</ins>📂 </H1>
+<H1> 🗂<ins>Project Test Folder</ins>📁📂 </H1>
 
 * [**tests**](./tests) : Folder is a folder of test folders and files. 
   * There are two Folder inside [**tests**](./tests) folder, this are
@@ -391,7 +156,7 @@ U+1F0B1
     * [**tests-output**](./tests/tests-output) Folder
 ###
 
-<H2> Tests-main.c Folder 📁 And Files 📋 </H2> 🔖
+<H2> Tests-main.c Folder 📁 And Files 📋🔖 </H2> 
 
 * [**tests-main.c**](./tests/tests-main.c) Folder is a folder of [**main.c**](./tests/tests-main.c) **files**.
   * [**main.c**](./tests/tests-main.c) **files** are a files we can use them to test our functions.
@@ -412,7 +177,7 @@ U+1F0B1
   * [**1000-main.c**](./tests/tests-main.c/1000-main.c)
 ###
 
-<H2> Tests-Output Folders📂 And Files 📋 </H2> 🔖
+<H2> Tests-Output Folders📂 And Files 📋 🔖</H2> 
 
 * [**tests-output**](./tests/tests-output) Folder is a folder of [**output**](./tests/tests-output) **files**.
   * [**output**](./tests/tests-output) **files** are a **compiled** files <ins>**output on Ubuntu 20.04 LTS**</ins> Using <ins>**gcc**</ins>, Using the options <ins>**-Wall -Werror -Wextra -pedantic -std=gnu89**</ins> plus using [**tests-main.c**](./tests/tests-main.c) **files**.
@@ -437,13 +202,16 @@ U+1F0B1
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnADFFID8gyibJBT58LNB9RMgbMAzHbSgh6g&usqp=CAU" />
 </p>
+<p align="center">
+<img src="https://fastercapital.com/i/Optimal-Time-Complexity--Achieving-Sortinoratio-Efficiency--Introduction-to-Time-Complexity-and-Sorting-Algorithms.webp" />
+</p>
 
 ##
 
 <h1> <ins>Resources</ins> 💾</H1>
 
-### **Read 📖 or watch🎞:** 🔖$
-* ${\color{red}\textsf{ [**Sorting algorithm**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)\ \}}$
+### **Read 📖 or watch🎞:** 🔖
+* [**Sorting algorithm**](https://intranet.alxswe.com/rltoken/-j5MKLBlzZAC2RfJ5DTBIg)
 * [**Big O notation**](https://intranet.alxswe.com/rltoken/WRvrE2BaNVQFssHiUATTrw)
 * [**Sorting algorithms animations**](https://intranet.alxswe.com/rltoken/ol0P7NbYVb5R31iOv4Q40A)
 * [**15 sorting algorithms in 6 minutes**](https://intranet.alxswe.com/rltoken/_I0aEvhfJ66Xyob6dd9Utw) (***WARNING:*** *The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms*)
@@ -451,10 +219,7 @@ U+1F0B1
 * [**All about sorting algorithms**](https://intranet.alxswe.com/rltoken/21X_eaj5RGcLIL9mZv2sqw)
 
 <p align="center">
-  <img src="https://d3i71xaburhd42.cloudfront.net/23117ddd9154e167662a5a3104947076c8f3a48b/1-Figure1.1-1.png" />
-</p>
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:942/1*zr053Q07JOcjpFPh4iDJCA.png" />
+  <img src="https://www.indiastudychannel.com/attachments/Resources/144683-21010-types-of-sorting.JPG" />
 </p>
 
 ###
@@ -525,7 +290,7 @@ U+1F0B1
 
 ##
 
-<H1><ins>More Info</ins> 🎁ℹ️</H1>
+<H1><ins>More Info</ins> ℹ️</H1>
 
 <H2>Data structures and Functions📌 :heavy_check_mark:</H2>
 
@@ -1668,7 +1433,7 @@ typedef struct deck_node_s
 * You can **assume there is exactly <ins>52 elements</ins>** in the [**doubly linked list**](https://en.wikipedia.org/wiki/Doubly_linked_list).
 * You are **free to use the <ins>sorting algorithm</ins> of your choice.**
 * The <ins>**deck must be ordered</ins>:**
-  * From <ins>**Ace</ins>** 🅰️ to 🤴🏾 <ins>**King</ins>**
+  * From <ins>**Ace</ins>** ${{\color{red}\Huge\{\textsf{ 🂱\}}}}$ ${{\color{black}\Huge\{\textsf{ 🂡\}}}}$ 🅰️ to 🤴🏾 ${{\color{black}\Huge\{\textsf{ 🂮\}}}}$ ${{\color{red}\Huge\{\textsf{ 🂾\}}}}$ <ins>**King</ins>**
   * From <ins>**Spades</ins>** ♠️ to ♦️ <ins>**Diamonds</ins>**
   * See example below
 #####
