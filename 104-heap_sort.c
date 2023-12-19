@@ -20,6 +20,8 @@ void heap_sort(int *array, size_t size);
 /**
  * swap_ints - It Swaps two integers in an array.
  *
+ * Author: Bereket Dereje Mekonnen.
+ *
  * @a: The first integer to swap.
  *
  * @b: The second integer to swap.
@@ -38,6 +40,8 @@ void swap_ints(int *a, int *b)
 /**
  * max_heapify - It Turns a binary tree into
  *               a complete binary heap.
+ *
+ * Author: Bereket Dereje Mekonnen.
  *
  * @array: An array of integers representing
  *         a binary tree.
@@ -74,6 +78,8 @@ void max_heapify(int *array, size_t size, size_t base, size_t root)
 /**
  * heap_sort - Sort an array of integers in ascending
  *             order using the heap sort algorithm.
+ *
+ * Author: Bereket Dereje Mekonnen.
  *
  * @array: An array of integers.
  *
